@@ -1,4 +1,4 @@
-# Documentation - 20211104 박규원
+# Documentation
 
 ## Project Structure
 This folder is structured as follows:
